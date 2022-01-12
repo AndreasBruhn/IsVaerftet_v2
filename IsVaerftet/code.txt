@@ -1,0 +1,3 @@
+	<?php if($video):?>
+				<?php echo $video['youtube_video'];?>
+				<?php endif;?>
